@@ -1,3 +1,9 @@
+
+
+                        -------->  voici le lien https://george746.github.io/tp_B/
+
+
+
 Bonjour, ce projets a plusieurs erreur, d'apres avoir anlyser je vous propose certais solution : 
 
     **********html****header
